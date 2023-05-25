@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* border: 1px solid red;  */
+  }
+  .od img{  
+     margin-top: 16px; 
+     height: 100%;
+     width: 110%; 
+
+  }
+  form {
+    padding-top: 130px;
+    margin-top: 130px;
+    height: 1000px;
+    width: 117%;
+    border: 1px solid #ccc;
+    background:#F5F500 ;
+  }
+
+  h1 {
+    position: relative;
+    text-align: left;
+  }
+
+  h3 {
+    position: relative; 
+    text-align: left;
+  }
+
+  .didi {
+    position: relative;
+    text-align: right;
+
+  }
+   
+  .gsuis{
+    text-align: center;
+  }
+  .form{
+    text-align: center;
+  }
+  .footer{
+
+    background-color: #4CAF50;
+  }
+  input[type="text"], input[type="date"], select {
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .titre{
+    text-align: center;
+  }
+  .button{
+    height: 20px;
+    width: 20px;
+  }
+/* input, .enre{
+    width: 50%;
+    border: 2px solid #fff;
+    
+} */
+  
